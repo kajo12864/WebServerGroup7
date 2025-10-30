@@ -1,0 +1,15 @@
+*{
+	font-family: Arial, Helvetica;
+}
+
+body{
+	background-color: lightgray;
+}
+
+p, li {
+	color:gray;
+}
+
+h3{
+	color: black;
+}
