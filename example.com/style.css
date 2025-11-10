@@ -3,7 +3,17 @@
 }
 
 body{
-	background-color: lightgray;
+	background:url(background.jpg);
+}
+
+.container{
+	background-color: #f3f3f3;
+	padding: 0 85px 2px 5px;
+	border: solid #5b5858;
+	border-width: 0 5px 10px 0;
+	border-radius: 5px 5px 25px 5px;
+	width:55%;
+	margin-bottom:10px;
 }
 
 p, li {
@@ -12,4 +22,12 @@ p, li {
 
 h3{
 	color: black;
+}
+
+a{
+	color:#b8b8b8;
+}
+
+a:hover{
+	color:#636270;
 }
